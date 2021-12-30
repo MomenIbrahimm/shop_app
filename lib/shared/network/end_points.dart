@@ -1,0 +1,11 @@
+const login= 'login';
+const home= 'home';
+const categories= 'categories';
+const profile= 'profile';
+const favorites= 'favorites';
+const contacts= 'contacts';
+const settings= 'settings';
+const updateProfile= 'update-profile';
+const changePass = 'change-password';
+const productsSearch = 'products/search';
+const register = 'register';
